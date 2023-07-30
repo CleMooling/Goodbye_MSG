@@ -1,1 +1,2 @@
-# mcdr_plugins
+# Goodbye_MSG
+Just load it in mcdr! 
